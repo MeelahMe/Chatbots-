@@ -8,15 +8,15 @@ The main goal of this repository is to demonstrate my ability to develop sophist
 
 # Key Features
 
-Advanced Python Programming: Each project employs advanced Python programming techniques to ensure efficient and scalable code.
+- Advanced Python Programming: Each project employs advanced Python programming techniques to ensure efficient and scalable code.
 
-Deep Learning Models: Utilizes cutting-edge deep learning frameworks and models, such as TensorFlow and PyTorch, to create intelligent chatbots.
+- Deep Learning Models: Utilizes cutting-edge deep learning frameworks and models, such as TensorFlow and PyTorch, to create intelligent chatbots.
 
-Natural Language Processing (NLP): Implements NLP techniques to enable chatbots to understand and respond to human language effectively.
+- Natural Language Processing (NLP): Implements NLP techniques to enable chatbots to understand and respond to human language effectively.
 
-Comprehensive Documentation: Detailed documentation is provided for each project, covering the development process, model architecture, training procedures, and usage instructions.
+- Comprehensive Documentation: Detailed documentation is provided for each project, covering the development process, model architecture, training procedures, and usage    instructions.
 
-Interactive Demos: Some projects include interactive demos or examples to showcase the chatbot's capabilities in real-time.
+- Interactive Demos: Some projects include interactive demos or examples to showcase the chatbot's capabilities in real-time.
 
 
 # How to Use
