@@ -20,13 +20,13 @@ The main goal of this repository is to demonstrate my ability to develop sophist
 
 # Projects Included
 
-- Conversational AI Chatbot: A sophisticated chatbot that can engage in meaningful conversations with users.
+- Conversational AI Chatbot (# Comming Soon ): A sophisticated chatbot that can engage in meaningful conversations with users.
 
 - Customer Service Bot: Designed to handle common customer service inquiries, providing quick and accurate responses.
 
-- Task Automation Bot: Automates routine tasks through conversational commands, increasing productivity and efficiency.
+- Task Automation Bot (# Comming Soon ): Automates routine tasks through conversational commands, increasing productivity and efficiency.
 
-- Sentiment Analysis Bot: Analyzes user sentiments and adapts its responses based on the detected emotional tone.
+- Sentiment Analysis Bot (# Comming Soon ): Analyzes user sentiments and adapts its responses based on the detected emotional tone.
 
 # How to Use
 
