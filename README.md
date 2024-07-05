@@ -20,13 +20,13 @@ The main goal of this repository is to demonstrate my ability to develop sophist
 
 # Projects Included
 
-- Conversational AI Chatbot (Comming Soon): A sophisticated chatbot that can engage in meaningful conversations with users.
+- Rule-based (coming soon): A sophisticated chatbot that can engage in meaningful conversations with users.
 
-- Customer Service Bot: Designed to handle common customer service inquiries, providing quick and accurate responses.
+- Dialog tree Bot: Designed to handle common customer service inquiries, providing quick and accurate responses.
 
-- Task Automation Bot  (Comming Soon): Automates routine tasks through conversational commands, increasing productivity and efficiency.
+- Retrevial-based bot (comming Soon): Automates routine tasks through conversational commands, increasing productivity and efficiency.
 
-- Sentiment Analysis Bot (Comming Soon): Analyzes user sentiments and adapts its responses based on the detected emotional tone.
+- Deep learning and Generative bot (coming Soon): Analyzes user sentiments and adapts its responses based on the detected emotional tone.
 
 # How to Use
 
