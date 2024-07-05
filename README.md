@@ -20,9 +20,9 @@ The main goal of this repository is to demonstrate my ability to develop sophist
 
 # Projects Included
 
-- Rule-based (coming soon): A sophisticated chatbot that can engage in meaningful conversations with users.
-
 - Dialog tree Bot: Designed to handle common customer service inquiries, providing quick and accurate responses.
+  
+- Rule-based (coming soon): A sophisticated chatbot that can engage in meaningful conversations with users.
 
 - Retrevial-based bot (comming Soon): Automates routine tasks through conversational commands, increasing productivity and efficiency.
 
